@@ -1,0 +1,14 @@
+#cupra1 {
+  color: #ffffff;
+  background-color: #454a55;
+  margin: 15px;
+  padding: 15px;
+}
+#cupra2 {
+  color: #ffffff;
+  background-color: #454a55;
+  margin: 15px;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
